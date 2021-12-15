@@ -1,0 +1,1708 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "isExtraImport": true,
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "isExtraImport": true,
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "generic",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangeView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "ckeditor.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ckeditor.fields",
+        "description": "ckeditor.fields",
+        "detail": "ckeditor.fields",
+        "documentation": {}
+    },
+    {
+        "label": "RichTextField",
+        "importPath": "ckeditor.fields",
+        "description": "ckeditor.fields",
+        "isExtraImport": true,
+        "detail": "ckeditor.fields",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ablog.asgi",
+        "description": "ablog.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "ablog.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '&))fenlk$)m$a@06*5w*op&a)vyn9q7%bq7miy4kpsh!l-i*cb'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "SECRET_KEY = '&))fenlk$)m$a@06*5w*op&a)vyn9q7%bq7miy4kpsh!l-i*cb'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'theblog',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'theblog',\n    'members',\n    'ckeditor',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ablog.urls'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "ROOT_URLCONF = 'ablog.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'ablog.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nMEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),\n)\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),\n)\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static/')\n]\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),\n)\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),\n)\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),\n)\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "ablog.settings",
+        "description": "ablog.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = 'home'",
+        "detail": "ablog.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ablog.urls",
+        "description": "ablog.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',include('theblog.urls')),\n    path('admin/', admin.site.urls),\n    path('members/',include('django.contrib.auth.urls')),\n    path('members/',include('members.urls')),\n]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "ablog.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ablog.wsgi",
+        "description": "ablog.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "ablog.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "MembersConfig",
+        "kind": 6,
+        "importPath": "members.apps",
+        "description": "members.apps",
+        "peekOfCode": "class MembersConfig(AppConfig):\n    name = 'members'",
+        "detail": "members.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ProfilePageForm",
+        "kind": 6,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "class ProfilePageForm(forms.ModelForm):\n\tmodel = Profile\n\tfields=('bio','profile_pic','website_url','facebook_url','twitter_url','instagram_url','pinterest_url')\n\twidgets={\n\t\t'bio':forms.Textarea(attrs={'class':'form-control'}),\n\t\t#'profile_pic':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'website_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'facebook_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'twitter_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'instagram_url':forms.TextInput(attrs={'class':'form-control'}),",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpForm",
+        "kind": 6,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "class SignUpForm(UserCreationForm):\n\temail=forms.EmailField(widget=forms.EmailInput(attrs={'class':'form-control'}))\n\tfirst_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tclass Meta:\n\t\tmodel=User\n\t\tfields=('username','first_name','last_name','email','password1','password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EditProfileForm",
+        "kind": 6,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "class EditProfileForm(UserChangeForm):\n\temail=forms.EmailField(widget=forms.EmailInput(attrs={'class':'form-control'}))\n\tfirst_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tusername=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_login=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tis_superuser=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tis_staff=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tis_active=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tdate_joined=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordChangingForm",
+        "kind": 6,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "class PasswordChangingForm(PasswordChangeForm):\n\told_password=forms.EmailField(widget=forms.PasswordInput(attrs={'class':'form-control','type':'password'}))\n\tnew_password1=forms.CharField(max_length=100, widget=forms.PasswordInput(attrs={'class':'form-control','type':'password'}))\n\tnew_password2=forms.CharField(max_length=100, widget=forms.PasswordInput(attrs={'class':'form-control','type':'password'}))\n\tclass Meta:\n\t\tmodel=User\n\t\tfields=('old_password','new_password1','new_password2')",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "\tmodel = Profile\n\tfields=('bio','profile_pic','website_url','facebook_url','twitter_url','instagram_url','pinterest_url')\n\twidgets={\n\t\t'bio':forms.Textarea(attrs={'class':'form-control'}),\n\t\t#'profile_pic':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'website_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'facebook_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'twitter_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'instagram_url':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'pinterest_url':forms.TextInput(attrs={'class':'form-control'}),",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\nclass EditProfileForm(UserChangeForm):\n\temail=forms.EmailField(widget=forms.EmailInput(attrs={'class':'form-control'}))\n\tfirst_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tusername=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_login=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tis_superuser=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\nclass EditProfileForm(UserChangeForm):\n\temail=forms.EmailField(widget=forms.EmailInput(attrs={'class':'form-control'}))\n\tfirst_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tusername=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_login=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tis_superuser=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tis_staff=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "members.forms",
+        "description": "members.forms",
+        "peekOfCode": "\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\nclass EditProfileForm(UserChangeForm):\n\temail=forms.EmailField(widget=forms.EmailInput(attrs={'class':'form-control'}))\n\tfirst_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_name=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tusername=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tlast_login=forms.CharField(max_length=100, widget=forms.TextInput(attrs={'class':'form-control'}))\n\tis_superuser=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tis_staff=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))\n\tis_active=forms.CharField(max_length=100, widget=forms.CheckboxInput(attrs={'class':'form-check'}))",
+        "detail": "members.forms",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "members.urls",
+        "description": "members.urls",
+        "peekOfCode": "urlpatterns = [\npath('register/', UserRegisterView.as_view(), name='register'),\npath('edit_profile/', UserEditView.as_view(), name='edit_profile'),\n#path('password/', auth_views.PasswordChangeView.as_view(template_name='registration/change_password.html'))\npath('password/', PasswordsChangeView.as_view(template_name='registration/change_password.html')),\npath('password_success/', views.password_success, name='password_success'),\npath('<int:pk>/profile/', ShowProfilePageView.as_view(), name='show_profile_page'),\npath('<int:pk>/edit_profile_page/', EditProfilePageView.as_view(), name='edit_profile_page'),\npath('create_profile_page/', CreateProfilePageView.as_view(), name='create_user_profile_page'),\n]",
+        "detail": "members.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProfilePageView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class CreateProfilePageView(CreateView):\n\tclass Meta:\n\t\tmodel=Profile\n\t\tform_class=ProfilePageForm\n\t\ttemplate_name='registration/create_user_profile_page.html'\n\t\t#fields='__all__'\n\t\tdef form_valid(self, form):\n\t\t\tform.instance.user = self.request.user\n\t\t\treturn super().form_valid(form)\nclass EditProfilePageView(generic.UpdateView):",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditProfilePageView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class EditProfilePageView(generic.UpdateView):\n\tmodel=Profile\n\ttemplate_name='registration/edit_profile_page.html'\n\tfields=['bio','profile_pic','website_url','facebook_url','twitter_url','instagram_url','pinterest_url']\n\tsuccess_url=reverse_lazy('home')\nclass ShowProfilePageView(DetailView):\n\tmodel=Profile\n\ttemplate_name='registration/user_profile.html'\n\tdef get_context_data(self, *args, **kwargs):\n\t\t#users = Profile.objects.all()",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "ShowProfilePageView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class ShowProfilePageView(DetailView):\n\tmodel=Profile\n\ttemplate_name='registration/user_profile.html'\n\tdef get_context_data(self, *args, **kwargs):\n\t\t#users = Profile.objects.all()\n\t\tcontext = super(ShowProfilePageView, self).get_context_data(*args,**kwargs)\n\t\tpage_user=get_object_or_404(Profile, id=self.kwargs['pk'])\n\t\tcontext[\"page_user\"] = page_user\n\t\treturn context\nclass PasswordsChangeView(PasswordChangeView):",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordsChangeView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class PasswordsChangeView(PasswordChangeView):\n\tform_class=PasswordChangingForm\n\t#form_class=PasswordChangeForm\n\tsuccess_url=reverse_lazy('password_success')\n\t#success_url=reverse_lazy('home')\ndef password_success(request):\n\treturn render(request, 'registration/password_success.html',{})\nclass UserRegisterView(generic.CreateView):\n\tform_class=SignUpForm\n\ttemplate_name='registration/register.html'",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class UserRegisterView(generic.CreateView):\n\tform_class=SignUpForm\n\ttemplate_name='registration/register.html'\n\tsuccess_url=reverse_lazy('login')\nclass UserEditView(generic.UpdateView):\n\tform_class=EditProfileForm\n\ttemplate_name='registration/edit_profile.html'\n\tsuccess_url=reverse_lazy('home')\n\tdef get_object(self):\n\t\treturn self.request.user",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserEditView",
+        "kind": 6,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "class UserEditView(generic.UpdateView):\n\tform_class=EditProfileForm\n\ttemplate_name='registration/edit_profile.html'\n\tsuccess_url=reverse_lazy('home')\n\tdef get_object(self):\n\t\treturn self.request.user",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "password_success",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def password_success(request):\n\treturn render(request, 'registration/password_success.html',{})\nclass UserRegisterView(generic.CreateView):\n\tform_class=SignUpForm\n\ttemplate_name='registration/register.html'\n\tsuccess_url=reverse_lazy('login')\nclass UserEditView(generic.UpdateView):\n\tform_class=EditProfileForm\n\ttemplate_name='registration/edit_profile.html'\n\tsuccess_url=reverse_lazy('home')",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tform.instance.user",
+        "kind": 5,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "\t\t\tform.instance.user = self.request.user\n\t\t\treturn super().form_valid(form)\nclass EditProfilePageView(generic.UpdateView):\n\tmodel=Profile\n\ttemplate_name='registration/edit_profile_page.html'\n\tfields=['bio','profile_pic','website_url','facebook_url','twitter_url','instagram_url','pinterest_url']\n\tsuccess_url=reverse_lazy('home')\nclass ShowProfilePageView(DetailView):\n\tmodel=Profile\n\ttemplate_name='registration/user_profile.html'",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t#users",
+        "kind": 5,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "\t\t#users = Profile.objects.all()\n\t\tcontext = super(ShowProfilePageView, self).get_context_data(*args,**kwargs)\n\t\tpage_user=get_object_or_404(Profile, id=self.kwargs['pk'])\n\t\tcontext[\"page_user\"] = page_user\n\t\treturn context\nclass PasswordsChangeView(PasswordChangeView):\n\tform_class=PasswordChangingForm\n\t#form_class=PasswordChangeForm\n\tsuccess_url=reverse_lazy('password_success')\n\t#success_url=reverse_lazy('home')",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "\t\tcontext = super(ShowProfilePageView, self).get_context_data(*args,**kwargs)\n\t\tpage_user=get_object_or_404(Profile, id=self.kwargs['pk'])\n\t\tcontext[\"page_user\"] = page_user\n\t\treturn context\nclass PasswordsChangeView(PasswordChangeView):\n\tform_class=PasswordChangingForm\n\t#form_class=PasswordChangeForm\n\tsuccess_url=reverse_lazy('password_success')\n\t#success_url=reverse_lazy('home')\ndef password_success(request):",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"page_user\"]",
+        "kind": 5,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "\t\tcontext[\"page_user\"] = page_user\n\t\treturn context\nclass PasswordsChangeView(PasswordChangeView):\n\tform_class=PasswordChangingForm\n\t#form_class=PasswordChangeForm\n\tsuccess_url=reverse_lazy('password_success')\n\t#success_url=reverse_lazy('home')\ndef password_success(request):\n\treturn render(request, 'registration/password_success.html',{})\nclass UserRegisterView(generic.CreateView):",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0001_initial",
+        "description": "theblog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "theblog.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0002_post_title_tag",
+        "description": "theblog.migrations.0002_post_title_tag",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='title_tag',\n            field=models.CharField(default=\"my freakin' Awesome blog\", max_length=255),\n        ),",
+        "detail": "theblog.migrations.0002_post_title_tag",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0003_auto_20210411_2234",
+        "description": "theblog.migrations.0003_auto_20210411_2234",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0002_post_title_tag'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='post_date',\n            field=models.DateField(auto_now_add=True, default=django.utils.timezone.now),\n            preserve_default=False,",
+        "detail": "theblog.migrations.0003_auto_20210411_2234",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0004_auto_20210412_0910",
+        "description": "theblog.migrations.0004_auto_20210412_0910",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0003_auto_20210411_2234'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "theblog.migrations.0004_auto_20210412_0910",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0005_post_likes",
+        "description": "theblog.migrations.0005_post_likes",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('theblog', '0004_auto_20210412_0910'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='likes',\n            field=models.ManyToManyField(related_name='blog_post', to=settings.AUTH_USER_MODEL),",
+        "detail": "theblog.migrations.0005_post_likes",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0006_auto_20210415_0716",
+        "description": "theblog.migrations.0006_auto_20210415_0716",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0005_post_likes'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='post',\n            name='body',\n            field=ckeditor.fields.RichTextField(blank=True, null=True),\n        ),",
+        "detail": "theblog.migrations.0006_auto_20210415_0716",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0007_post_snippet",
+        "description": "theblog.migrations.0007_post_snippet",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0006_auto_20210415_0716'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='snippet',\n            field=models.CharField(default='Click The Link Above To Read BlogPost.....', max_length=255),\n        ),",
+        "detail": "theblog.migrations.0007_post_snippet",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0008_auto_20210417_0703",
+        "description": "theblog.migrations.0008_auto_20210417_0703",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0007_post_snippet'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='header_image',\n            field=models.ImageField(blank=True, null=True, upload_to='image/'),\n        ),",
+        "detail": "theblog.migrations.0008_auto_20210417_0703",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0009_profile",
+        "description": "theblog.migrations.0009_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('theblog', '0008_auto_20210417_0703'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "theblog.migrations.0009_profile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0010_auto_20210417_0843",
+        "description": "theblog.migrations.0010_auto_20210417_0843",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0009_profile'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='Profile_pic',\n            field=models.ImageField(blank=True, null=True, upload_to='image/profile/'),\n        ),",
+        "detail": "theblog.migrations.0010_auto_20210417_0843",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0011_auto_20210417_0846",
+        "description": "theblog.migrations.0011_auto_20210417_0846",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0010_auto_20210417_0843'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='profile',\n            old_name='title',\n            new_name='facebook_url',\n        ),",
+        "detail": "theblog.migrations.0011_auto_20210417_0846",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0012_auto_20210417_0908",
+        "description": "theblog.migrations.0012_auto_20210417_0908",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0011_auto_20210417_0846'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='profile',\n            old_name='Profile_pic',\n            new_name='profile_pic',\n        ),",
+        "detail": "theblog.migrations.0012_auto_20210417_0908",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "theblog.migrations.0013_comment",
+        "description": "theblog.migrations.0013_comment",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('theblog', '0012_auto_20210417_0908'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "theblog.migrations.0013_comment",
+        "documentation": {}
+    },
+    {
+        "label": "TheblogConfig",
+        "kind": 6,
+        "importPath": "theblog.apps",
+        "description": "theblog.apps",
+        "peekOfCode": "class TheblogConfig(AppConfig):\n    name = 'theblog'",
+        "detail": "theblog.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "kind": 6,
+        "importPath": "theblog.forms",
+        "description": "theblog.forms",
+        "peekOfCode": "class PostForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel=Post\n\t\tfields=('title','title_tag','author','category','body','snippet','header_image')\n\t\twidgets={\n\t\t'title':forms.TextInput(attrs={'class':'form-control','placeholder':'enter your title please'}),\n\t\t'title_tag':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'author':forms.TextInput(attrs={'class':'form-control','value':'', 'id':'elder', 'type':'hidden'}),\n\t\t#'author':forms.Select(attrs={'class':'form-control'}),\n\t\t'category':forms.Select(choices=choice_list,attrs={'class':'form-control'}),",
+        "detail": "theblog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EditForm",
+        "kind": 6,
+        "importPath": "theblog.forms",
+        "description": "theblog.forms",
+        "peekOfCode": "class EditForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel=Post\n\t\tfields=('title','title_tag','body')\n\t\twidgets={\n\t\t'title':forms.TextInput(attrs={'class':'form-control','placeholder':'enter your title please'}),\n\t\t'title_tag':forms.TextInput(attrs={'class':'form-control'}),\n\t\t#'author':forms.Select(attrs={'class':'form-control'}),\n\t\t'body':forms.Textarea(attrs={'class':'form-control'}),\n\t\t}",
+        "detail": "theblog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteForm",
+        "kind": 6,
+        "importPath": "theblog.forms",
+        "description": "theblog.forms",
+        "peekOfCode": "class DeleteForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel=Post\n\t\tfields=('title','title_tag','body')\n\t\twidgets={\n\t\t'title':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'title_tag':forms.TextInput(attrs={'class':'form-control'}),\n\t\t#'author':forms.Select(attrs={'class':'form-control'}),\n\t\t'body':forms.Textarea(attrs={'class':'form-control'}),\n\t\t}",
+        "detail": "theblog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CommentForm",
+        "kind": 6,
+        "importPath": "theblog.forms",
+        "description": "theblog.forms",
+        "peekOfCode": "class CommentForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel=Comment\n\t\tfields=('name','body')\n\t\twidgets={\n\t\t'name':forms.TextInput(attrs={'class':'form-control'}),\n\t\t'body':forms.Textarea(attrs={'class':'form-control'}),\n\t\t}",
+        "detail": "theblog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "#choices",
+        "kind": 5,
+        "importPath": "theblog.forms",
+        "description": "theblog.forms",
+        "peekOfCode": "#choices = [('coding','coding'),('entertainment','entertainment'),('sports','sports'),]\nchoices=category.objects.all().values_list('name','name')\nchoice_list=[]\nfor item in choices:\n\tchoice_list.append(item)\nclass PostForm(forms.ModelForm):\n\tclass Meta:\n\t\tmodel=Post\n\t\tfields=('title','title_tag','author','category','body','snippet','header_image')\n\t\twidgets={",
+        "detail": "theblog.forms",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "kind": 6,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "class category(models.Model):\n\tname = models.CharField(max_length=255)\n\tdef __str__(self):\n\t\treturn self.name\n\tdef get_absolute_url(self):\n\t    #return reverse('article_detail', args=(str(self.id)))\n\t    return reverse('home')\nclass Profile(models.Model):\n\tuser=models.OneToOneField(User,null=True,on_delete=models.CASCADE)\n\tbio=models.TextField()",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "class Profile(models.Model):\n\tuser=models.OneToOneField(User,null=True,on_delete=models.CASCADE)\n\tbio=models.TextField()\n\tprofile_pic=models.ImageField(null=True, blank=True, upload_to=\"image/profile/\")\n\twebsite_url = models.CharField(max_length=255, null=True, blank=True)\n\tfacebook_url = models.CharField(max_length=255, null=True, blank=True)\n\ttwitter_url = models.CharField(max_length=255, null=True, blank=True)\n\tinstagram_url = models.CharField(max_length=255, null=True, blank=True)\n\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "class Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)\n\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)\n\tbody = RichTextField(blank=True, null=True)\n\t#body = models.TextField()\n\tpost_date=models.DateField(auto_now_add=True)\n\tcategory=models.CharField(max_length=255, default='coding')\n\tsnippet=models.CharField(max_length=255, default='Click The Link Above To Read Blog Post.....')",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "class Comment(models.Model):\n\tpost = models.ForeignKey(Post, related_name=\"comments\", on_delete = models.CASCADE)\n\tname=models.CharField(max_length=255)\n\tbody=models.TextField(max_length=255)\n\tdate_added=models.DateTimeField(auto_now_add=True)\n\tdef __str__(self):\n\t\treturn '%s - %s' % (self.post.title, self.name)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tname",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tname = models.CharField(max_length=255)\n\tdef __str__(self):\n\t\treturn self.name\n\tdef get_absolute_url(self):\n\t    #return reverse('article_detail', args=(str(self.id)))\n\t    return reverse('home')\nclass Profile(models.Model):\n\tuser=models.OneToOneField(User,null=True,on_delete=models.CASCADE)\n\tbio=models.TextField()\n\tprofile_pic=models.ImageField(null=True, blank=True, upload_to=\"image/profile/\")",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\twebsite_url",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\twebsite_url = models.CharField(max_length=255, null=True, blank=True)\n\tfacebook_url = models.CharField(max_length=255, null=True, blank=True)\n\ttwitter_url = models.CharField(max_length=255, null=True, blank=True)\n\tinstagram_url = models.CharField(max_length=255, null=True, blank=True)\n\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn str(self.user)\nclass Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tfacebook_url",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tfacebook_url = models.CharField(max_length=255, null=True, blank=True)\n\ttwitter_url = models.CharField(max_length=255, null=True, blank=True)\n\tinstagram_url = models.CharField(max_length=255, null=True, blank=True)\n\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn str(self.user)\nclass Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\ttwitter_url",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\ttwitter_url = models.CharField(max_length=255, null=True, blank=True)\n\tinstagram_url = models.CharField(max_length=255, null=True, blank=True)\n\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn str(self.user)\nclass Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)\n\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tinstagram_url",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tinstagram_url = models.CharField(max_length=255, null=True, blank=True)\n\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn str(self.user)\nclass Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)\n\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)\n\tbody = RichTextField(blank=True, null=True)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tpinterest_url",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tpinterest_url = models.CharField(max_length=255, null=True, blank=True)\n\tdef __str__(self):\n\t\treturn str(self.user)\nclass Post(models.Model):\n\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)\n\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)\n\tbody = RichTextField(blank=True, null=True)\n\t#body = models.TextField()",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\ttitle",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\ttitle = models.CharField(max_length=255)\n\theader_image=models.ImageField(null=True, blank=True, upload_to=\"image/\")\n\ttitle_tag=models.CharField(max_length=255)\n\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)\n\tbody = RichTextField(blank=True, null=True)\n\t#body = models.TextField()\n\tpost_date=models.DateField(auto_now_add=True)\n\tcategory=models.CharField(max_length=255, default='coding')\n\tsnippet=models.CharField(max_length=255, default='Click The Link Above To Read Blog Post.....')\n\tlikes=models.ManyToManyField(User, related_name='blog_post')",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tauthor",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tauthor = models.ForeignKey(User,on_delete = models.CASCADE)\n\tbody = RichTextField(blank=True, null=True)\n\t#body = models.TextField()\n\tpost_date=models.DateField(auto_now_add=True)\n\tcategory=models.CharField(max_length=255, default='coding')\n\tsnippet=models.CharField(max_length=255, default='Click The Link Above To Read Blog Post.....')\n\tlikes=models.ManyToManyField(User, related_name='blog_post')\n\tdef total_likes(self):\n\t\treturn self.likes.count()\n\tdef __str__(self):",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tbody",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tbody = RichTextField(blank=True, null=True)\n\t#body = models.TextField()\n\tpost_date=models.DateField(auto_now_add=True)\n\tcategory=models.CharField(max_length=255, default='coding')\n\tsnippet=models.CharField(max_length=255, default='Click The Link Above To Read Blog Post.....')\n\tlikes=models.ManyToManyField(User, related_name='blog_post')\n\tdef total_likes(self):\n\t\treturn self.likes.count()\n\tdef __str__(self):\n\t\treturn self.title + ' | ' + str(self.author)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\t#body",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\t#body = models.TextField()\n\tpost_date=models.DateField(auto_now_add=True)\n\tcategory=models.CharField(max_length=255, default='coding')\n\tsnippet=models.CharField(max_length=255, default='Click The Link Above To Read Blog Post.....')\n\tlikes=models.ManyToManyField(User, related_name='blog_post')\n\tdef total_likes(self):\n\t\treturn self.likes.count()\n\tdef __str__(self):\n\t\treturn self.title + ' | ' + str(self.author)\n\tdef get_absolute_url(self):",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tpost",
+        "kind": 5,
+        "importPath": "theblog.models",
+        "description": "theblog.models",
+        "peekOfCode": "\tpost = models.ForeignKey(Post, related_name=\"comments\", on_delete = models.CASCADE)\n\tname=models.CharField(max_length=255)\n\tbody=models.TextField(max_length=255)\n\tdate_added=models.DateTimeField(auto_now_add=True)\n\tdef __str__(self):\n\t\treturn '%s - %s' % (self.post.title, self.name)",
+        "detail": "theblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "theblog.urls",
+        "description": "theblog.urls",
+        "peekOfCode": "urlpatterns = [\n    #path('',views.home, name=\"home\"),\n    path('',HomeView.as_view(), name='home'),\n    path('article/<int:pk>/', ArticleDetailView.as_view(), name='article_detail'),\n    path('add_post/', AddPostView.as_view(), name='add_post'),\n    path('article/edit/<int:pk>/',UpdatePostView.as_view(), name='update_post'),\n    path('article/<int:pk>/remove/',DeletePostView.as_view(), name='delete_post'),\n    path('add_category/',AddCategoryView.as_view(), name='add_category'),\n    path('category/<str:cats>/',CategoryView, name= 'category'),\n    path('category_list/',CategoryListView, name= 'category'),",
+        "detail": "theblog.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HomeVie",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class HomeView (ListView):\n\tmodel = Post\n\ttemplate_name = 'home.html'\n\t#ordering=['-id']\n\tordering=['post_date']\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "ArticleDetailVie",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class ArticleDetailView (DetailView):\n\tmodel=Post\n\ttemplate_name='article_details.html'\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(ArticleDetailView, self).get_context_data(*args,**kwargs )\n\t\tstuff = get_object_or_404(Post, id=self.kwargs['pk'])\n\t\ttotal_likes=stuff.total_likes()\n\t\tliked = False\n\t\tif stuff.likes.filter(id=self.request.user.id).exists():",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddPostView",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm\n\ttemplate_name= 'add_post.html'\n\t#fields='__all__'\n\t#fields= ('title','body')\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(AddPostView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCommentView",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class AddCommentView(CreateView):\n\tmodel=Comment\n\tform_class=CommentForm\n\ttemplate_name= 'add_comment.html'\n\t#fields='__all__'\n\tsuccess_url=reverse_lazy('home')\n\tdef form_valid(self, form):\n\t\tform.instance.post_id = self.kwargs['pk']\n\t\treturn super().form_valid(form)\nclass AddCategoryView(CreateView):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCategoryView",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class AddCategoryView(CreateView):\n\tmodel=category\n\t#form_class=PostForm\n\ttemplate_name= 'add_category.html'\n\tfields='__all__'\n\t#fields= ('title','body')\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(AddCategoryView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdatePostView",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class UpdatePostView(UpdateView):\n\tmodel=Post\n\tform_class=EditForm\n\ttemplate_name='update_post.html'\n\t#fields=('title','title_tag','body')\nclass DeletePostView(DeleteView):\n\tmodel=Post\n\ttemplate_name='delete_post.html'\n\tsuccess_url=reverse_lazy('home')",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeletePostView",
+        "kind": 6,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "class DeletePostView(DeleteView):\n\tmodel=Post\n\ttemplate_name='delete_post.html'\n\tsuccess_url=reverse_lazy('home')",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "LikeView",
+        "kind": 2,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "def LikeView(request,pk):\n\tpost=get_object_or_404(Post, id=request.POST.get('post_id'))\n\tliked = False\n\tif post.likes.filter(id=request.user.id).exists():\n\t\tpost.likes.remove(request.user)\n\t\tliked = False\n\telse:\n\t\tpost.likes.add(request.user)\n\t\tliked = True\n\treturn HttpResponseRedirect(reverse('article_detail', args=[str(pk)]))",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryListView",
+        "kind": 2,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "def CategoryListView(request):\n\tcat_menu_list = category.objects.all()\n\treturn render(request, 'category_list.html',{'cat_menu_list':cat_menu_list})\ndef CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})\nclass ArticleDetailView (DetailView):\n\tmodel=Post\n\ttemplate_name='article_details.html'\n\tdef get_context_data(self, *args, **kwargs):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryView",
+        "kind": 2,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "def CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})\nclass ArticleDetailView (DetailView):\n\tmodel=Post\n\ttemplate_name='article_details.html'\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(ArticleDetailView, self).get_context_data(*args,**kwargs )\n\t\tstuff = get_object_or_404(Post, id=self.kwargs['pk'])",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tliked",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\tliked = False\n\tif post.likes.filter(id=request.user.id).exists():\n\t\tpost.likes.remove(request.user)\n\t\tliked = False\n\telse:\n\t\tpost.likes.add(request.user)\n\t\tliked = True\n\treturn HttpResponseRedirect(reverse('article_detail', args=[str(pk)]))\nclass HomeView (ListView):\n\tmodel = Post",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tliked",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tliked = False\n\telse:\n\t\tpost.likes.add(request.user)\n\t\tliked = True\n\treturn HttpResponseRedirect(reverse('article_detail', args=[str(pk)]))\nclass HomeView (ListView):\n\tmodel = Post\n\ttemplate_name = 'home.html'\n\t#ordering=['-id']\n\tordering=['post_date']",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tliked",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tliked = True\n\treturn HttpResponseRedirect(reverse('article_detail', args=[str(pk)]))\nclass HomeView (ListView):\n\tmodel = Post\n\ttemplate_name = 'home.html'\n\t#ordering=['-id']\n\tordering=['post_date']\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\tmodel = Post\n\ttemplate_name = 'home.html'\n\t#ordering=['-id']\n\tordering=['post_date']\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\ndef CategoryListView(request):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\ttemplate_name",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\ttemplate_name = 'home.html'\n\t#ordering=['-id']\n\tordering=['post_date']\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()\n\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\ndef CategoryListView(request):\n\tcat_menu_list = category.objects.all()",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcat_menu",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcat_menu = category.objects.all()\n\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\ndef CategoryListView(request):\n\tcat_menu_list = category.objects.all()\n\treturn render(request, 'category_list.html',{'cat_menu_list':cat_menu_list})\ndef CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext = super(HomeView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\ndef CategoryListView(request):\n\tcat_menu_list = category.objects.all()\n\treturn render(request, 'category_list.html',{'cat_menu_list':cat_menu_list})\ndef CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})\nclass ArticleDetailView (DetailView):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"cat_menu\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\ndef CategoryListView(request):\n\tcat_menu_list = category.objects.all()\n\treturn render(request, 'category_list.html',{'cat_menu_list':cat_menu_list})\ndef CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})\nclass ArticleDetailView (DetailView):\n\tmodel=Post",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcat_menu_list",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\tcat_menu_list = category.objects.all()\n\treturn render(request, 'category_list.html',{'cat_menu_list':cat_menu_list})\ndef CategoryView(request, cats):\n\tcategory_posts=Post.objects.filter(category=cats.replace('-',' '))\n\treturn render(request, 'categories.html',{'cats':cats.title().replace('-',' '),'category_posts':category_posts})\nclass ArticleDetailView (DetailView):\n\tmodel=Post\n\ttemplate_name='article_details.html'\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcat_menu",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcat_menu = category.objects.all()\n\t\tcontext = super(ArticleDetailView, self).get_context_data(*args,**kwargs )\n\t\tstuff = get_object_or_404(Post, id=self.kwargs['pk'])\n\t\ttotal_likes=stuff.total_likes()\n\t\tliked = False\n\t\tif stuff.likes.filter(id=self.request.user.id).exists():\n\t\t\tliked = True\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext = super(ArticleDetailView, self).get_context_data(*args,**kwargs )\n\t\tstuff = get_object_or_404(Post, id=self.kwargs['pk'])\n\t\ttotal_likes=stuff.total_likes()\n\t\tliked = False\n\t\tif stuff.likes.filter(id=self.request.user.id).exists():\n\t\t\tliked = True\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tstuff",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tstuff = get_object_or_404(Post, id=self.kwargs['pk'])\n\t\ttotal_likes=stuff.total_likes()\n\t\tliked = False\n\t\tif stuff.likes.filter(id=self.request.user.id).exists():\n\t\t\tliked = True\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tliked",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tliked = False\n\t\tif stuff.likes.filter(id=self.request.user.id).exists():\n\t\t\tliked = True\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tliked",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\t\tliked = True\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm\n\ttemplate_name= 'add_post.html'\n\t#fields='__all__'",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"cat_menu\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"cat_menu\"] = cat_menu\n\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm\n\ttemplate_name= 'add_post.html'\n\t#fields='__all__'\n\t#fields= ('title','body')",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"total_likes\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"total_likes\"] = total_likes\n\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm\n\ttemplate_name= 'add_post.html'\n\t#fields='__all__'\n\t#fields= ('title','body')\n\tdef get_context_data(self, *args, **kwargs):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"liked\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"liked\"] = liked\n\t\treturn context\nclass AddPostView(CreateView):\n\tmodel=Post\n\tform_class=PostForm\n\ttemplate_name= 'add_post.html'\n\t#fields='__all__'\n\t#fields= ('title','body')\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcat_menu",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcat_menu = category.objects.all()\n\t\tcontext = super(AddPostView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass AddCommentView(CreateView):\n\tmodel=Comment\n\tform_class=CommentForm\n\ttemplate_name= 'add_comment.html'\n\t#fields='__all__'\n\tsuccess_url=reverse_lazy('home')",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext = super(AddPostView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass AddCommentView(CreateView):\n\tmodel=Comment\n\tform_class=CommentForm\n\ttemplate_name= 'add_comment.html'\n\t#fields='__all__'\n\tsuccess_url=reverse_lazy('home')\n\tdef form_valid(self, form):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"cat_menu\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass AddCommentView(CreateView):\n\tmodel=Comment\n\tform_class=CommentForm\n\ttemplate_name= 'add_comment.html'\n\t#fields='__all__'\n\tsuccess_url=reverse_lazy('home')\n\tdef form_valid(self, form):\n\t\tform.instance.post_id = self.kwargs['pk']",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform.instance.post_id",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tform.instance.post_id = self.kwargs['pk']\n\t\treturn super().form_valid(form)\nclass AddCategoryView(CreateView):\n\tmodel=category\n\t#form_class=PostForm\n\ttemplate_name= 'add_category.html'\n\tfields='__all__'\n\t#fields= ('title','body')\n\tdef get_context_data(self, *args, **kwargs):\n\t\tcat_menu = category.objects.all()",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcat_menu",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcat_menu = category.objects.all()\n\t\tcontext = super(AddCategoryView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass UpdatePostView(UpdateView):\n\tmodel=Post\n\tform_class=EditForm\n\ttemplate_name='update_post.html'\n\t#fields=('title','title_tag','body')\nclass DeletePostView(DeleteView):",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext = super(AddCategoryView, self).get_context_data(*args,**kwargs )\n\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass UpdatePostView(UpdateView):\n\tmodel=Post\n\tform_class=EditForm\n\ttemplate_name='update_post.html'\n\t#fields=('title','title_tag','body')\nclass DeletePostView(DeleteView):\n\tmodel=Post",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcontext[\"cat_menu\"]",
+        "kind": 5,
+        "importPath": "theblog.views",
+        "description": "theblog.views",
+        "peekOfCode": "\t\tcontext[\"cat_menu\"] = cat_menu\n\t\treturn context\nclass UpdatePostView(UpdateView):\n\tmodel=Post\n\tform_class=EditForm\n\ttemplate_name='update_post.html'\n\t#fields=('title','title_tag','body')\nclass DeletePostView(DeleteView):\n\tmodel=Post\n\ttemplate_name='delete_post.html'",
+        "detail": "theblog.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ablog.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

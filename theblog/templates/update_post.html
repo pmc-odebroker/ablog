@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block title %} Change existing Post {% endblock %}
+
+{% block content %}
+
+{% if user.is_authenticated %}
+	{% if user.id == post.author.id %}
+		<h1> Edit Post </h1>
+
+		<br/><br/>
+
+
+		<dev class="form-group">
+		<form method="POST">
+			{%csrf_token%}
+			{{form.media}}
+			{{form.as_p}}
+		<button class="btn btn-secondary">update</button>
+		</form>
+		</dev>
+	{% else %}
+		your not allowed here
+	{% endif %}
+	
+{% else %}
+	your not allowed here and you know it!!!!!(please Login first)
+{% endif %}
+
+{% endblock %}
